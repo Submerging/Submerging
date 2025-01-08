@@ -2,7 +2,8 @@
 
 <!--
 **Submerging/Submerging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I'm here for something new.
+Foucus on GPU、AI、programming、tools。
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
